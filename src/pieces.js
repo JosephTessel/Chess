@@ -3,8 +3,10 @@ import ReactDOM from 'react-dom';
 import './import.css';
 
 class Piece extends React.Component {
-
-  constructor(role)
-  const squares = 
+  render(piece) {
+    {/* add pieces here*/}
+  }
+  constructor(props)
+    const piece = this.state
 
 }
